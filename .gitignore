@@ -1,0 +1,5 @@
+# 忽略所有testIgnore文件下的文件
+testIgnore/
+
+# 忽略index.css 文件
+index.css
